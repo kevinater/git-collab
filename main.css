@@ -1,3 +1,4 @@
+
 .nav_bar{
 background-color:DodgerBlue;
 width: 100%;
@@ -12,7 +13,10 @@ padding: 0;
   font-family: sans-serif;
   font-size: 32px;
   padding:20px;
-
+.events {
+  list-style-type: none;
+  border: 1px solid black;
+}
 .sidebar {
   margin: 0;
   padding: 0;
