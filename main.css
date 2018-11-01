@@ -6,6 +6,9 @@
 #p1 {
   text-align: center;
   margin: auto;
-  padding: 10px;
-  border: 10px;
+}
+
+#whoarewe {
+  text-align: center;
+  margin: auto;
 }
